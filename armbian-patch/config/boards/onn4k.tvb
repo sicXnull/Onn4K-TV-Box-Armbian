@@ -1,4 +1,4 @@
-# Amlogic S905X4 quad core 2-4GB RAM SoC eMMC GBE USB3 SPI Wifi
+# Amlogic S905X4 quad core 2GB RAM SoC eMMC Wifi
 BOARD_NAME="Onn4k TV Box"
 BOARDFAMILY="meson-g12a"
 BOARD_MAINTAINER="sicXnull"
