@@ -9,6 +9,7 @@
 ### Working
 
 - HDMI
+- Audio
 - Bluetooth
 - Wi-Fi
 
