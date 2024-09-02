@@ -57,5 +57,5 @@ sudo dd if=Armbian-unofficial_24.11.0-trunk_Onn4k_bookworm_current_6.6.48_mate_d
 * For future boots, you just need the USB drive plugged in during poweron. There is no more need to hold the reset button.
 
 ### Credits
-https://github.com/riptidewave93/dopinder-debian for the configs.
-https://github.com/ilyakurdyukov/rk3528-tvbox for the format I used for the build process.
+* https://github.com/riptidewave93/dopinder-debian for the configs.
+* https://github.com/ilyakurdyukov/rk3528-tvbox for the format I used for the build process.
