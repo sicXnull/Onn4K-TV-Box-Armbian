@@ -33,7 +33,7 @@ $ ./compile.sh build BOARD=onn4k BRANCH=current BUILD_DESKTOP=yes BUILD_MINIMAL=
 ### Post script
 
 ```
-$ cd .. .
+$ cd ..
 $ sudo ./postscript.sh
 ```
 
