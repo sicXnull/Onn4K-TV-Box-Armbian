@@ -34,7 +34,7 @@ $ cd armbian-build
 $ ./compile.sh build BOARD=onn4k BRANCH=current BUILD_DESKTOP=yes BUILD_MINIMAL=no DESKTOP_APPGROUPS_SELECTED= DESKTOP_ENVIRONMENT=mate DESKTOP_ENVIRONMENT_CONFIG_NAME=config_base EXPERT=yes KERNEL_CONFIGURE=no KERNEL_GIT=shallow RELEASE=bookworm
 ```
 
-* Change as desired
+* Change as desired (jammy/noble/etc)
 
 ### Post script
 
